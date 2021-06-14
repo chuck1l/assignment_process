@@ -1,0 +1,1 @@
+This folder is here to store the LCAD ready files for short-term. Making it easier on Diane and Clint when uploading the files. The contents are ignored by git in order to minimize the amount of data being transferred to/from.
